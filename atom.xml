@@ -6,7 +6,7 @@
   <link href="https://tomhur123.github.io/atom.xml" rel="self"/>
   
   <link href="https://tomhur123.github.io/"/>
-  <updated>2024-12-05T11:23:00.044Z</updated>
+  <updated>2024-12-06T09:54:51.983Z</updated>
   <id>https://tomhur123.github.io/</id>
   
   <author>
@@ -17,13 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>计算机网络复习笔记</title>
+    <link href="https://tomhur123.github.io/posts/51edd2cc.html"/>
+    <id>https://tomhur123.github.io/posts/51edd2cc.html</id>
+    <published>2024-12-06T09:47:40.000Z</published>
+    <updated>2024-12-06T09:54:51.983Z</updated>
+    
+    <content type="html"><![CDATA[<p>为什么要有 TCP/IP 网络模型？<br><div class="tip home"><p>home</p></div></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;为什么要有 TCP/IP 网络模型？&lt;br&gt;&lt;div class=&quot;tip home&quot;&gt;&lt;p&gt;home&lt;/p&gt;
+&lt;/div&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>微风正好</title>
     <link href="https://tomhur123.github.io/posts/a50c1b85.html"/>
     <id>https://tomhur123.github.io/posts/a50c1b85.html</id>
     <published>2024-12-05T11:00:00.000Z</published>
-    <updated>2024-12-05T11:23:00.044Z</updated>
+    <updated>2024-12-06T08:23:31.703Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="冬至"><a href="#冬至" class="headerlink" title="冬至"></a>冬至</h1><blockquote><p>与i哦哦哦</p><p>对你打击打击</p><p>dkkkdk</p></blockquote><div class="tip "><p>default</p></div>]]></content>
+    <content type="html"><![CDATA[<h1 id="冬至"><a href="#冬至" class="headerlink" title="冬至"></a>冬至</h1><blockquote><p>与i哦哦哦</p><p>对你打击打击</p><p>dkkkdk</p></blockquote>]]></content>
     
     
       
@@ -33,7 +55,7 @@
 &lt;p&gt;对你打击打击&lt;/p&gt;
 &lt;p&gt;dkkkdk&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;div </summary>
+</summary>
       
     
     
